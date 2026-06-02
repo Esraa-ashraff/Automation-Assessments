@@ -1,4 +1,4 @@
-# ABM-Engineering-Assessment
+# Automation-Assessments
 
 This repository contains the comprehensive solutions for the 4-task engineering assessment, covering **Advanced Web Automation**, **Network Interception**, **DOM Scraping**, and **Scalable System Architecture**.
 
