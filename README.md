@@ -1,6 +1,6 @@
 # Automation-Assessments
 
-This repository contains the comprehensive solutions for the 4-task engineering assessment, covering **Advanced Web Automation**, **Network Interception**, **DOM Scraping**, and **Scalable System Architecture**.
+This repository contains the comprehensive solutions for the 2-task engineering assessment, covering **Advanced Web Automation** and **DOM Scraping**.
 
 ---
 
@@ -16,32 +16,16 @@ This repository contains the comprehensive solutions for the 4-task engineering 
 
 ---
 
-### 🕸️ Task 2: Network Interception & Token Injection
-**Focus:** Controlling the browser network stack and DOM manipulation.
-* **Key Achievement:** Successfully intercepted and blocked all Cloudflare security scripts via `page.route`.
-* **Injection Logic:** Manually bypassed the challenge by injecting a valid response payload directly into the DOM via JavaScript.
-* 📂 *For full technical details, see the README inside the `Task2` folder.*
-
-> 🎥 **[Watch Task 2 Demo Video Here](https://drive.google.com/file/d/15gnBZjfEiwpfurfgGBwtQgDlXbZYdjIc/view?usp=sharing)**
-
----
-
-### 🔍 Task 3: DOM Scraping Assessment
+### 🔍 Task 2: DOM Scraping Assessment
 **Focus:** Advanced scraping and visibility-based filtering.
 * **Key Achievement:** * Scraped 100+ images as **Base64** and stored them in `allimages.json`.
     * Implemented human-centric filtering to capture only the **9 visible images** in `visible_images_only.json`.
     * Extracted only the human-visible text instructions from the cluttered DOM.
 * 📂 *Scraping scripts and JSON outputs are in the `Task3` folder.*
-> 🎥 **[Watch Task 3 Demo Video Here](https://drive.google.com/file/d/1IHEVZXulIC4fNT1OLvskAiDS5YkvR-c-/view?usp=sharing)**
+> 🎥 **[Watch Task 2 Demo Video Here](https://drive.google.com/file/d/1IHEVZXulIC4fNT1OLvskAiDS5YkvR-c-/view?usp=sharing)**
 
 ---
 
-### 🏗️ Task 4: Scalable System Architecture
-**Focus:** Designing a high-availability infrastructure for processing millions of tasks.
-* **Key Achievement:** Designed a robust architecture using **RabbitMQ** for task decoupling, **Load Balancers**, and a hybrid database strategy (PostgreSQL/Redis) for high-load performance.
-* 📂 *For the full architecture breakdown and diagram, see the README inside the `Task4` folder.*
-
----
 
 
 
