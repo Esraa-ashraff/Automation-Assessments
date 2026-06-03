@@ -16,13 +16,13 @@ This repository contains the comprehensive solutions for the 2-task engineering 
 
 ---
 
-### 🔍 Task 2: DOM Scraping Assessment
+### 🔍 Task 3: DOM Scraping Assessment
 **Focus:** Advanced scraping and visibility-based filtering.
 * **Key Achievement:** * Scraped 100+ images as **Base64** and stored them in `allimages.json`.
     * Implemented human-centric filtering to capture only the **9 visible images** in `visible_images_only.json`.
     * Extracted only the human-visible text instructions from the cluttered DOM.
 * 📂 *Scraping scripts and JSON outputs are in the `Task3` folder.*
-> 🎥 **[Watch Task 2 Demo Video Here](https://drive.google.com/file/d/1IHEVZXulIC4fNT1OLvskAiDS5YkvR-c-/view?usp=sharing)**
+> 🎥 **[Watch Task 3 Demo Video Here](https://drive.google.com/file/d/1IHEVZXulIC4fNT1OLvskAiDS5YkvR-c-/view?usp=sharing)**
 
 ---
 
